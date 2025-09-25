@@ -2,5 +2,10 @@ button{
     color: blue;
 }
 nav{
-    background-color:rgb(red, green, blue)
+    background-color:rgb(red 220, green 204, blue 255)
+    
+}
+.bg-custom{
+    background-color:rgb(220, 204,255);
+
 }
